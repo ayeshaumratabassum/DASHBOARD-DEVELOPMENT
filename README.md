@@ -68,4 +68,8 @@ In the retail and e-commerce sectors, dashboards help management analyze product
 
 This task successfully demonstrates the practical use of Power BI for data visualization and business intelligence. By converting raw sales data into interactive visual reports, the dashboard provides meaningful insights that support effective decision-making. The project highlights essential skills in data analysis, visualization design, dashboard development, and business reporting, making it highly relevant for real-world industry applications.
 
+## OUTPUT 
+
+<img width="1165" height="655" alt="Image" src="https://github.com/user-attachments/assets/a957d181-319d-4038-90d1-e3c804adc925" />
+
 
