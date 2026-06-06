@@ -10,7 +10,7 @@
 
 *DURATION*: 4 Weeks
 
-*MENTOR*: NEELA SANTOSH 
+*MENTOR*: NEELA SANTHOSH 
 
 # Task 3: Dashboard Development
 
